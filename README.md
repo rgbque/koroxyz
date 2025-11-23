@@ -2,6 +2,8 @@
 
 A modern UI enhancement extension built to give **Korone** a cleaner, sleeker, and more polished experience.
 
+**Discord Server**: **[KoroXYZ || KoroGold++](https://discord.gg/EQZFtQR3)**
+
 ---
 
 ##  Overview
