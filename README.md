@@ -1,4 +1,4 @@
-# **KoroXYZ**
+# **KoroGold++**
 
 A modern UI enhancement extension built to give **Korone** a cleaner, sleeker, and more polished experience.
 
