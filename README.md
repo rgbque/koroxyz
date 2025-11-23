@@ -17,11 +17,11 @@ This project is open source and built for the Korone community.
 
 ### **What does this extension do?**
 
-KoroXYZ redesigns Korone’s UI with a more modern and sleek layout, making it feel cleaner and easier to navigate.
+KoroXYZ redesigns Korone’s UI with a more modern and sleek layout, making it feel cleaner and less messier.
 
 ### **Is this extension safe?**
 
-Yes — the extension is completely safe. It’s based on an existing, trusted Korone community project, and the source code is fully public.
+Yes, the extension is completely safe. It’s based on an existing, trusted Korone community project, and the source code is fully public.
 
 ### **How often is the extension updated?**
 
@@ -29,7 +29,7 @@ Updates vary depending on the season:
 
 * **Summer & Fall:** most active update periods
 * **Holidays:** less likely to update
-* **Normal periods:** generally every 1–2 months
+* **Normal periods:** generally every 2 Weeks - 2 Months
 
 ### **Who owns this project?**
 
@@ -62,7 +62,7 @@ If you want to help develop KoroXYZ, feel free to DM **lapisll.** on Discord.
 5. Click **Load Unpacked**
 6. Select the folder inside the extracted ZIP
 7. Done enjoy your new modern UI!
-_____________________________________________________________________________________
+---
 ### Credits
 
 KoroXYZ is partially based on the original KoroGold extension created by require.
