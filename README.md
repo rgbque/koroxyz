@@ -54,7 +54,7 @@ If you want to help develop KoroXYZ, feel free to DM **lapisll.** on Discord.
 ---
 
 ##  Installation Guide
-
+0. Make sure dark mode is enabled in [Korone](https://pekora.zip) settings.
 1. Enable **Developer Mode** in your browser’s extensions page
 2. Download the **latest release** from GitHub
 3. Extract the downloaded ZIP file
