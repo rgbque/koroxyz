@@ -6,7 +6,7 @@ A modern UI enhancement extension built to give **Korone** a cleaner, sleeker, a
 
 ##  Overview
 
-**KoroXYZ** upgrades the user interface of [Korone](https://www.pekora.zip) with a more modern style.
+**KoroGold++** upgrades the user interface of [Korone](https://www.pekora.zip) with a more modern style.
 Smoother visuals, better spacing, improved readability, and a fresh 2025 look.
 
 This project is open source and built for the Korone community.
@@ -17,7 +17,7 @@ This project is open source and built for the Korone community.
 
 ### **What does this extension do?**
 
-KoroXYZ redesigns Korone’s UI with a more modern and sleek layout, making it feel cleaner and less messier.
+KoroGold++ [KoroXYZ] redesigns Korone’s UI with a more modern and sleek layout, making it feel cleaner and less messier.
 
 ### **Is this extension safe?**
 
@@ -33,11 +33,11 @@ Updates vary depending on the season:
 
 ### **Who owns this project?**
 
-KoroXYZ is currently maintained by **Lapis**.
+KoroGold++ [KoroXYZ] is currently maintained by **Lapis**.
 
 ### **How long will this project be supported?**
 
-There’s no set end date. The plan is to keep supporting KoroXYZ as long as the Korone project itself remains active.
+There’s no set end date. The plan is to keep supporting KoroGold++ [KoroXYZ] and keep updating it as long as the Korone project itself remains active.
 
 ---
 
@@ -49,7 +49,7 @@ Developers will appear here as the project grows.
 
 * **Developers:** 0
 
-If you want to help develop KoroXYZ, feel free to DM **lapisll.** on Discord.
+If you want to help develop KoroGold++ [KoroXYZ], feel free to DM **lapisll.** on Discord.
 
 ---
 
@@ -65,7 +65,7 @@ If you want to help develop KoroXYZ, feel free to DM **lapisll.** on Discord.
 ---
 ### Credits
 
-KoroXYZ is partially based on the original KoroGold extension created by require.
+KoroGold++ [KoroXYZ] is partially based on the original KoroGold extension created by require.
 This project wouldn’t exist without that foundation, and credit is given respectfully to the original creator.
 
 All modern UI changes, rewrites, fixes, and ongoing updates are developed by Lapis.
