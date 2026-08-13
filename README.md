@@ -1,15 +1,15 @@
-# **KoroGold++**
+# **ExcaliburX**
 
 A modern UI enhancement extension built to give **Korone** a cleaner, sleeker, and more polished experience.
 
-**Discord Server**: **[KoroXYZ || KoroGold++](https://discord.gg/zTvQ9YMANv)**
+**Discord Server**: **[KoroXYZ || ExcaliburX](https://discord.gg/zTvQ9YMANv)**
 
 ---
 
 ##  Overview
 
-**KoroGold++** upgrades the user interface of [Korone](https://www.pekora.zip) with a more modern style.
-Smoother visuals, better spacing, improved readability, and a fresh 2025 look.
+**ExcaliburX** upgrades the user interface of [Korone](https://www.pekora.zip) with a more modern style.
+Smoother visuals, better spacing, improved readability, and a fresh 2026 look.
 
 This project is open source and built for the Korone community.
 
@@ -19,11 +19,11 @@ This project is open source and built for the Korone community.
 
 ### **What does this extension do?**
 
-KoroGold++ [KoroXYZ] redesigns Korone’s UI with a more modern and sleek layout, making it feel cleaner and less messier.
+ExaliburX [KoroXYZ] redesigns Korone’s UI with a more modern and sleek layout, making it feel cleaner and less messier.
 
 ### **Is this extension safe?**
 
-Yes, the extension is completely safe. It’s based on an existing, trusted Korone community project, and the source code is fully public.
+Yes, the extension is completely safe. It’s based on an existing project built by Require, and the source code is fully public.
 
 ### **How often is the extension updated?**
 
@@ -35,11 +35,11 @@ Updates vary depending on the season:
 
 ### **Who owns this project?**
 
-KoroGold++ [KoroXYZ] is currently maintained by **Lapis**.
+ExcaliburX [KoroXYZ] is currently maintained by **Sylvester**.
 
 ### **How long will this project be supported?**
 
-There’s no set end date. The plan is to keep supporting KoroGold++ [KoroXYZ] and keep updating it as long as the Korone project itself remains active.
+There’s no set end date. The plan is to keep supporting ExcaliburX [KoroXYZ] and keep updating it as long as there is something new to add, or a new bug to fix.
 
 ---
 
@@ -51,7 +51,7 @@ Developers will appear here as the project grows.
 
 * **Developers:** 0
 
-If you want to help develop KoroGold++ [KoroXYZ], feel free to DM **lapisll.** on Discord.
+If you want to help develop ExcaliburX [KoroXYZ], feel free to DM **gg.misus** on Discord.
 
 ---
 
@@ -67,8 +67,8 @@ If you want to help develop KoroGold++ [KoroXYZ], feel free to DM **lapisll.** o
 ---
 ### Credits
 
-KoroGold++ [KoroXYZ] is partially based on the original KoroGold extension created by require.
+ExcaliburX [KoroXYZ] relies heavily on the original KoroGold extension created by require.
 This project wouldn’t exist without that foundation, and credit is given respectfully to the original creator.
 
-All modern UI changes, rewrites, fixes, and ongoing updates are developed by Lapis.
+All modern UI changes, rewrites, fixes, and ongoing updates are developed by Sylvester.
 
